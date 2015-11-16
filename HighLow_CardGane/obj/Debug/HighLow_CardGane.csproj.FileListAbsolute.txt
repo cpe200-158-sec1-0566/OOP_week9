@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\HighLow_CardGane\HighLow_CardGane\bin\Debug\HighLow_CardGane.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\HighLow_CardGane\HighLow_CardGane\bin\Debug\HighLow_CardGane.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\HighLow_CardGane\HighLow_CardGane\bin\Debug\HighLow_CardGane.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\HighLow_CardGane\HighLow_CardGane\obj\Debug\HighLow_CardGane.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\HighLow_CardGane\HighLow_CardGane\obj\Debug\HighLow_CardGane.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\HighLow_CardGane\HighLow_CardGane\obj\Debug\HighLow_CardGane.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\HighLow_CardGane\HighLow_CardGane\obj\Debug\HighLow_CardGane.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\HighLow_CardGane\HighLow_CardGane\obj\Debug\HighLow_CardGane.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\HighLow_CardGane\HighLow_CardGane\obj\Debug\HighLow_CardGane.HighLow_View.resources
